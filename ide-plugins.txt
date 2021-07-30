@@ -1,0 +1,19 @@
+PyCharm CE
+
+https://plugins.jetbrains.com/plugin/7724-docker
+https://plugins.jetbrains.com/plugin/7808-hashicorp-terraform--hcl-language-support 
+
+Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform
+https://marketplace.visualstudio.com/items?itemName=4ops.terraform
+https://marketplace.visualstudio.com/items?itemName=run-at-scale.terraform-doc-snippets
+
+https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.aws-toolkit-vscode
+https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments
+
+https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker
+https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers
+
+https://marketplace.visualstudio.com/items?itemName=ms-python.python
+https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance
+https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter
