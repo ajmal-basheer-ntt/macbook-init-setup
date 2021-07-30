@@ -1,0 +1,14 @@
+aws2-wrap==1.1.9
+backports.entry-points-selectable==1.1.0
+boto3==1.17.80
+botocore==1.20.80
+distlib==0.3.2
+filelock==3.0.12
+jmespath==0.10.0
+platformdirs==2.0.2
+psutil==5.8.0
+python-dateutil==2.8.1
+s3transfer==0.4.2
+six==1.16.0
+urllib3==1.26.4
+virtualenv==20.6.0
