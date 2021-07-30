@@ -1,0 +1,14 @@
+aws-sam-cli
+awscli
+gettext
+git
+helm
+jq
+kubernetes-cli
+make
+openssl@1.1
+python@3.8
+python@3.9
+stern
+tflint
+tfswitch
