@@ -7,3 +7,8 @@ curl -LO https://storage.googleapis.com/kubernetes-release/release/v1.18.20/bin/
 chmod +x kubectl
 sudo mv ./kubectl /usr/local/bin/kubectl
 kubectl version --client --short
+
+echo "export GOPATH=$HOME/go" >> ~/.zprofile
+echo "export PATH=$PATH:$GOPATH/bin" >> ~/.zprofile
+source ~/.zprofile
+go get github.com/micahhausler/k8s-oidc-helper
